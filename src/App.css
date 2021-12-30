@@ -1,6 +1,9 @@
 .App {
   text-align: center;
+
+   
 }
+
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap");
 
 * {
@@ -156,3 +159,9 @@
 	border-bottom-left-radius: 5px;
 	border-bottom-right-radius: 5px;
 }
+.input-group.md-form.form-sm.form-1 input {
+	border: 1px solid #bdbdbd;
+	border-top-right-radius: 0.25rem;
+	border-bottom-right-radius: 0.25rem;
+	
+  }
